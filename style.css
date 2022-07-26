@@ -73,6 +73,10 @@
         width: 50%;
         border-radius: 10px;
         padding: 30px;
-        background-color: rgb(25, 121, 166);
+        background-color: rgb(36, 53, 61);
     }
     
+    .img-area{
+        background-image: url(convention-center-main/images/back.jpg);
+        width: 100%;
+    }
